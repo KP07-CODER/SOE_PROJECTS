@@ -3,4 +3,4 @@ b=6
 a-b=c
 d=14
 c+d=e
-print(c,d)
+print(c,e)
